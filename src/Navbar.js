@@ -9,7 +9,7 @@ function Navbar() {
                 <ul className="nav-links">
                     <li><a href="#about">About Me</a></li>
                     <li><a href="#skills">Skills</a></li>
-                    <li><a href="#experience">Portfolio</a></li>
+                    <li><a href="#experience">Experience</a></li>
                 </ul>
             </nav>
             <button type="button"><a href='#contact'>Contact</a></button>

@@ -69,6 +69,7 @@ p{
     background-color: rgb(245, 245, 247);
     height: auto;
     padding: 100px;
+    scroll-margin-top: calc((100vh - 425px) / 2);
 }
 
 .about-text{
@@ -85,9 +86,9 @@ p{
 .skills-container{
     position: relative;
     background-color: rgb(29, 29, 31);
-    
     height: auto;
     padding: 40px;
+    scroll-margin-top: calc((100vh - 465px) / 2);
 }
 
 .skills-text{
@@ -279,3 +280,4 @@ p{
     }
   } 
   
+
