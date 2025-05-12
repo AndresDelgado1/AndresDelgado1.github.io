@@ -1,3 +1,4 @@
+import React from 'react';
 import './Body.css';
 import falcon from './assets/images/falcon.jpg';
 import usmc from './assets/images/usmc1.jpg';
