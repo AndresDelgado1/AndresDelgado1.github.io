@@ -86,8 +86,8 @@ function Body() {
     return (
         <>
             <div className="hero-container ">
-                <img className="hero-image" src={hero} />
-                <img className="hero-me" src={me} />
+                <img className="hero-image" src={hero} alt="banner"/>
+                <img className="hero-me" src={me} alt="me"/>
                 <h1 className="hero-text">I'm <span style={{color: '#007AFF'}}>Andres Delgado</span></h1>
             </div>
 {/* -------------------------------------------------------------- */}
