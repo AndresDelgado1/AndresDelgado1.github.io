@@ -99,7 +99,7 @@ function Body() {
 
 {/* -------------------------------------------------------------- */}
             <div className="skills-container" id="skills">
-                <h2 className="skills-text">My <span style={{color: '#007AFF'}}>Skills</span></h2>
+                <h2 className="skills-text">My <span style={{color: '#007AFF'}}>Tech Stack</span></h2>
                 <div className="skillscard-container">
                     <div className="skillscard">
                         <h3>Front-End</h3>
