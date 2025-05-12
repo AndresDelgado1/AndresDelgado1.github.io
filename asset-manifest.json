@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/AndresDelgado1.github.io/static/css/main.8e913915.chunk.css",
+    "main.js": "/AndresDelgado1.github.io/static/js/main.5414f91c.chunk.js",
+    "main.js.map": "/AndresDelgado1.github.io/static/js/main.5414f91c.chunk.js.map",
+    "runtime-main.js": "/AndresDelgado1.github.io/static/js/runtime-main.b699acf9.js",
+    "runtime-main.js.map": "/AndresDelgado1.github.io/static/js/runtime-main.b699acf9.js.map",
+    "static/js/2.26fc4786.chunk.js": "/AndresDelgado1.github.io/static/js/2.26fc4786.chunk.js",
+    "static/js/2.26fc4786.chunk.js.map": "/AndresDelgado1.github.io/static/js/2.26fc4786.chunk.js.map",
+    "static/js/3.d9f823b6.chunk.js": "/AndresDelgado1.github.io/static/js/3.d9f823b6.chunk.js",
+    "static/js/3.d9f823b6.chunk.js.map": "/AndresDelgado1.github.io/static/js/3.d9f823b6.chunk.js.map",
+    "index.html": "/AndresDelgado1.github.io/index.html",
+    "precache-manifest.e449427c77e9f1c3a4ff65f26e72ea84.js": "/AndresDelgado1.github.io/precache-manifest.e449427c77e9f1c3a4ff65f26e72ea84.js",
+    "service-worker.js": "/AndresDelgado1.github.io/service-worker.js",
+    "static/css/main.8e913915.chunk.css.map": "/AndresDelgado1.github.io/static/css/main.8e913915.chunk.css.map",
+    "static/js/2.26fc4786.chunk.js.LICENSE.txt": "/AndresDelgado1.github.io/static/js/2.26fc4786.chunk.js.LICENSE.txt",
+    "static/media/cardio.jpg": "/AndresDelgado1.github.io/static/media/cardio.f95a592a.jpg",
+    "static/media/falcon.jpg": "/AndresDelgado1.github.io/static/media/falcon.f6797160.jpg",
+    "static/media/git.png": "/AndresDelgado1.github.io/static/media/git.5d868564.png",
+    "static/media/gmail.png": "/AndresDelgado1.github.io/static/media/gmail.de0b5db9.png",
+    "static/media/hero.jpg": "/AndresDelgado1.github.io/static/media/hero.5e000660.jpg",
+    "static/media/linkedin.png": "/AndresDelgado1.github.io/static/media/linkedin.f4bfc2ab.png",
+    "static/media/logo.png": "/AndresDelgado1.github.io/static/media/logo.af3151db.png",
+    "static/media/me1.png": "/AndresDelgado1.github.io/static/media/me1.a846fd52.png",
+    "static/media/usmc1.jpg": "/AndresDelgado1.github.io/static/media/usmc1.26d7d99a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b699acf9.js",
+    "static/js/2.26fc4786.chunk.js",
+    "static/css/main.8e913915.chunk.css",
+    "static/js/main.5414f91c.chunk.js"
+  ]
+}
