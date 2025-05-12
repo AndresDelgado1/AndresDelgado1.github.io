@@ -1,3 +1,4 @@
+import React from 'react';
 import './Footer.css';
 import linkedin from './assets/images/linkedin.png'
 import git from './assets/images/git.png'
